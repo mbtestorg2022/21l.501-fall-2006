@@ -30,31 +30,288 @@ Jones, Edward P. _The Known World_ \[2003\]. New York, NY: Amistad, 2006. ISBN: 
 Readings by Session
 -------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | (no readings) |
-| 2 | Nathaniel Hawthorne | _Scarlet Letter_, chapters 1-20. |
-| 3 | _Scarlet Letter_, chapter 21-end. |
-| 4 | Harriet Beecher Stowe | _Uncle Tom's Cabin_, chapters 1-28. |
-| 5 | _Uncle Tom's Cabin_, chapter 29-end. |
-| 6 | William Faulkner | _Absalom, Absalom!_, chapters 1-3. |
-| 7 | _Absalom, Absalom!_, chapters 4-6. |
-| 8 | _Absalom, Absalom!_, chapters 7-9. |
-| 9 | Henry James | _Turn of the Screw_ (read all). |
-| 10 | Maxine Hong Kingston | _Woman Warrior_. Read "No Name Woman." |
-| 11 | _Woman Warrior_. Read "White Tigers"; "Shaman"; "At the Western Place." |
-| 12 | _Woman Warrior_. Read "A Song for a Barbarian Reed Pipe." |
-| 13 | Cormac McCarthy | _Blood Meridian_, chapters 1-4. |
-| 14 | _Blood Meridian_, chapters 5-13. |
-| 15 | _Blood Meridian_, chapter 14-end. |
-| 16 | Toni Morrison | _Beloved_, pp. 1-117. |
-| 17 | _Beloved_, pp. 118-165. |
-| 18 | _Beloved_, pp. 170-end. |
-| 19 | Louise Erdrich | _Tracks_, chapters 1-4. |
-| 20 | _Tracks_, chapters 5-7. |
-| 21 | _Tracks_, chapter 8-end. |
-| 22 | Philip Roth | _American Pastoral_, chapters 1-3. |
-| 23 | _American Pastoral_, chapters 4-5. |
-| 24 | Edward P. Jones | _The Known World_, pp. 1-177 (chapters 1-5). |
-| 25 | _The Known World_, pp. 179-end (chapters 6-12). |
-| 26 | _The Known World_ (final discussion).
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+(no readings)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Nathaniel Hawthorne
+{{< tdclose >}}
+{{< tdopen >}}
+_Scarlet Letter_, chapters 1-20.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Scarlet Letter_, chapter 21-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Harriet Beecher Stowe
+{{< tdclose >}}
+{{< tdopen >}}
+_Uncle Tom's Cabin_, chapters 1-28.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Uncle Tom's Cabin_, chapter 29-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+William Faulkner
+{{< tdclose >}}
+{{< tdopen >}}
+_Absalom, Absalom!_, chapters 1-3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Absalom, Absalom!_, chapters 4-6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Absalom, Absalom!_, chapters 7-9.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Henry James
+{{< tdclose >}}
+{{< tdopen >}}
+_Turn of the Screw_ (read all).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Maxine Hong Kingston
+{{< tdclose >}}
+{{< tdopen >}}
+_Woman Warrior_. Read "No Name Woman."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Woman Warrior_. Read "White Tigers"; "Shaman"; "At the Western Place."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Woman Warrior_. Read "A Song for a Barbarian Reed Pipe."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Cormac McCarthy
+{{< tdclose >}}
+{{< tdopen >}}
+_Blood Meridian_, chapters 1-4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_Blood Meridian_, chapters 5-13.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Blood Meridian_, chapter 14-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Toni Morrison
+{{< tdclose >}}
+{{< tdopen >}}
+_Beloved_, pp. 1-117.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_Beloved_, pp. 118-165.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_Beloved_, pp. 170-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Louise Erdrich
+{{< tdclose >}}
+{{< tdopen >}}
+_Tracks_, chapters 1-4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_Tracks_, chapters 5-7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Tracks_, chapter 8-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Philip Roth
+{{< tdclose >}}
+{{< tdopen >}}
+_American Pastoral_, chapters 1-3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_American Pastoral_, chapters 4-5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Edward P. Jones
+{{< tdclose >}}
+{{< tdopen >}}
+_The Known World_, pp. 1-177 (chapters 1-5).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+_The Known World_, pp. 179-end (chapters 6-12).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_The Known World_ (final discussion).
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
